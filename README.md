@@ -1,1 +1,0 @@
-# sps-computing-lectures

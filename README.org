@@ -1,0 +1,7 @@
+* SPS Computing Lectures
+
+This repository hosts files relevant to introductory Python and Linux lectures given
+at UCF in Spring of 2021.
+
+Special thanks to Dr. Joseph Harrington for allowing me to use his materials in these
+files.
